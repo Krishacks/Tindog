@@ -1,2 +1,2 @@
 # Tindog
-A fun website for Dogs  like Tinder
+A fun dating website for Dogs like TINDER
